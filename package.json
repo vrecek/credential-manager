@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vrecek",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.7.2",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.0"
+  }
+}
